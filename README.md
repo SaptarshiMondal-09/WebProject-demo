@@ -1,4 +1,4 @@
 # WebProject-demo
 This is my first git Repository.
 <br>
-Author - Rishi Mondal
+Author - Rishi Mondal (Web Developer)
